@@ -1,6 +1,6 @@
 比赛链接：https://codeforces.com/contest/1933
 
-官解暂未放出。
+官解链接：https://codeforces.com/blog/entry/126560
 
 质量不错的一场 D3。
 
